@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FinalIHC</string>
+    <string name="title_activity_login">Ingresar</string>
+    <string name="title_activity_mensajes">Mensajes</string>
+    <string name="title_activity_paquetes">Paquetes</string>
+    <string name="title_activity_internet">Internet</string>
+    <string name="title_activity_duo">Duos</string>
+    <string name="title_activity_atencion">Atencion</string>
+    <string name="title_activity_perfil">perfil</string>
+
+</resources>

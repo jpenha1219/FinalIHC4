@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cuenta"
+            android:icon="@mipmap/iconperfil"
+            android:title="@string/Cuenta" />
+        <item
+            android:id="@+id/nav_mensajes"
+            android:icon="@mipmap/iconmensaje"
+            android:title="@string/Mensajes" />
+        <item
+            android:id="@+id/nav_internet"
+            android:icon="@mipmap/iconinternet"
+            android:title="@string/Internet" />
+        <item
+            android:id="@+id/nav_duos"
+            android:icon="@mipmap/icontelevision"
+            android:title="@string/Duos" />
+    </group>
+
+    <item android:title="@string/nosotros">
+        <menu>
+            <item
+                android:id="@+id/nav_Atencion"
+                android:icon="@mipmap/iconatencion"
+                android:title="@string/Antencion_al_cliente" />
+
+        </menu>
+    </item>
+
+</menu>

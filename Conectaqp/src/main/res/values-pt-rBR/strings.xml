@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="atencion_al_cliente">atendimento ao cliente</string>
+    <string name="Antencion_al_cliente">atendimento ao cliente</string>
+    <string name="nav_header_title">anonimo Unsa</string>
+    <string name="registrar">Registrar</string>
+    <string name="perfil">Perfil</string>
+    <string name="Ppaquetes">Pacotes</string>
+    <string name="contrasena">Senha</string>
+    <string name="des_ochoduo">"-8 Mbps e ilimitado -mais de 250 canais -50 canais HD -inclui plex -todo o pacote Fox -todo o pacote HBO "</string>
+    <string name="des_cuatroduo">"-4 Mbps e ilimitado -mais de 250 canais -50 canais HD -inclui plex -todo o pacote Fox -todo o pacote HBO "</string>
+    <string name="des_diezduo">-10 Mbps e ilimitado -mais de 250 canais -50 canais HD -inclui plex -todo o pacote Fox -todo o pacote HBO</string>
+    <string name="cable">Cabo</string>
+    <string name="correo">Mail</string>
+    <string name="cuatro">Quatro</string>
+    <string name="ingresar">Entrar</string>
+    <string name="Mensajes">Mensagens</string>
+    <string name="mensajesperfil">Mensagens</string>
+    <string name="nombre">Nome</string>
+    <string name="nosotros">Nós</string>
+    <string name="ocho">Oito</string>
+    <string name="paquete_duo">Pacotes Duo</string>
+    <string name="plex_descripcion">Você pode curtir suas séries ou filmes favoritos, graças ao nosso serviço de conta plex gratuito, em qualquer dispositivo</string>
+    <string name="serviciosperfil">Serviços (ativar ou desativar)</string>
+    <string name="usuario">Usúario</string>
+    <string name="Bienvenido" translatable="false">Aplicações</string>
+    <string name="solicitudesperfil">Aplicações</string>
+    <string name="cable_descripcion">Com mais de 250 canais, incluindo 50 hd, você não pode perder esta oportunidade e ser o mais popular entre seus amigos</string>
+    <string name="Cuenta">Conta</string>
+    <string name="diez">dez</string>
+    <string name="duda_o_comentario">Dúvida ou comentário</string>
+    <string name="enviar">Enviar</string>
+    <string name="des10">-Internet 10 Mbps ilimitado -Router com wi-fi -Unlimited Internet Download -Plex serviço</string>
+    <string name="desc4">-Internet 4 Mbps ilimitado -Router com wi-fi -Unlimited Internet Download -Plex serviço</string>
+    <string name="des6">-Internet 6 Mbps ilimitado -Router com wi-fi -Unlimited Internet Download -Plex serviço</string>
+    <string name="des8">-Internet 8 Mbps ilimitado -Router com wi-fi -Unlimited Internet Download -Plex serviço</string>
+    <string name="str_pt">Português</string>
+    <string name="str_en">Inglês</string>
+    <string name="str_es">Espanhol</string>
+</resources>

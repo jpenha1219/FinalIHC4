@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.dave.finalihc.Conectaqp">
+
+    <application tools:ignore="AllowBackup,GoogleAppIndexingWarning">
+        <activity
+            android:name=".Principal"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Login"
+            android:label="@string/title_activity_login"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Mensajes"
+            android:label="@string/title_activity_mensajes"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Paquetes"
+            android:label="@string/title_activity_paquetes"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Internet"
+            android:label="@string/title_activity_internet"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".duo"
+            android:label="@string/title_activity_duo"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Atencion"
+            android:label="@string/title_activity_atencion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".perfil"
+            android:label="@string/title_activity_perfil"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

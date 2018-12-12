@@ -1,0 +1,61 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title">Anonimo Unsa</string>
+    <string name="nav_header_subtitle" translatable="false">Anonimo@unsa.edu.pe</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="Cuenta">Cuenta</string>
+    <string name="Mensajes">Mensajes</string>
+    <string name="Ppaquetes">Paquetes</string>
+    <string name="Internet" translatable="false">Internet</string>
+    <string name="Duos" translatable="false">Duos</string>
+    <string name="Antencion_al_cliente">Antencion al cliente</string>
+    <string name="Sugerencias" translatable="false">Sugerencias</string>
+    <string name="casitodo" translatable="false">casitodo</string>
+    <string name="Bienvenido" translatable="false">TextView</string>
+    <string name="atencion_al_cliente">Atencion al Cliente</string>
+    <string name="paquete_duo">Paquete Duo</string>
+    <string name="internet" translatable="false">Internet</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="nosotros">Nosotros</string>
+    <string name="plex" translatable="false">Plex</string>
+    <string name="plex_descripcion">Podras disfrutar de tus series o peliculas favoritas, gracias a nuestro servicio gratuito de cuentas plex, en cualquier dispositivo</string>
+    <string name="title_plex" translatable="false">PLEX</string>
+    <string name="cable">CABLE</string>
+    <string name="cable_descripcion">Con mas de 250 canales, incluyendo 50 hd, no puedes dejar pasar esta oportunidad y ser el mas popular entre tus amigos</string>
+    <string name="imagen_cable" translatable="false">imagen cable</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="registrar">Registrarse</string>
+    <string name="diez">diez</string>
+    <string name="ocho">ocho</string>
+    <string name="seis" translatable="false">seis</string>
+    <string name="cuatro">cuatro</string>
+    <string name="desc4">-Internet 4 Mbps ilimitando   -Router con wifi   -Descarga de Internet Ilimitado   -Servicio Plex</string>
+    <string name="des6">-Internet 6 Mbps ilimitando   -Router con wifi   -Descarga de Internet Ilimitado   -Servicio Plex</string>
+    <string name="des8">-Internet 8 Mbps ilimitando   -Router con wifi   -Descarga de Internet Ilimitado   -Servicio Plex</string>
+    <string name="des10">-Internet 10 Mbps ilimitando   -Router con wifi   -Descarga de Internet Ilimitado   -Servicio Plex</string>
+    <string name="nombre">Nombre</string>
+    <string name="enviar">Enviar</string>
+    <string name="duda_o_comentario">Duda o comentario</string>
+    <string name="correo">Correo</string>
+    <string name="ottplayer" translatable="false">ottplayer</string>
+    <string name="des_cuatroduo">-4 Mbps e ilimitado    -Mas de 250 canales   -50 canales HD    -Incluye plex     -Todo el paquete Fox    -Todo el paquete HBO</string>
+    <string name="des_ochoduo">-8 Mbps e ilimitado    -Mas de 250 canales   -50 canales HD    -Incluye plex     -Todo el paquete Fox    -Todo el paquete HBO</string>
+    <string name="des_diezduo">-10 Mbps e ilimitado    -Mas de 250 canales   -50 canales HD    -Incluye plex     -Todo el paquete Fox    -Todo el paquete HBO</string>
+    <string name="outtcanales" translatable="false">outtCanales</string>
+    <string name="perfil">Perfil</string>
+    <string name="imagen_perfil" translatable="false">imagen perfil</string>
+    <string name="mensajesperfil">Mensajes</string>
+    <string name="solicitudesperfil">Solicitudes</string>
+    <string name="serviciosperfil">Servicios (activar o desactivar)</string>
+    <string name="str_en" >Ingles</string>
+    <string name="str_es">Español</string>
+    <string name="str_pt" >Portugués</string>
+    <string-array name="languages" >
+        <item>@string/str_en</item>
+        <item>@string/str_es</item>
+        <item>@string/str_pt</item>
+    </string-array>
+</resources>
